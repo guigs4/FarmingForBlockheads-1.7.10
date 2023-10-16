@@ -13,8 +13,8 @@ Aims to backport [FarmingForBlockheads](https://www.curseforge.com/minecraft/mc-
 - Custom trade entries.
 
 ## What doesn't work:
-- NPC doesn't have a proper model/texture.
-- AI is broken.
+- ~~NPC doesn't have a proper model/texture.~~
+- ~~AI is broken.~~
 - No sound effects.
 - No particle effects.
 - ~~Block doesn't rotate to face the player when placed.~~
